@@ -1,5 +1,5 @@
 # <img src="symphony500.png" height="100" width="100"> Symphony, Keep Grooving
- Symphony is a Music Player coded in Python for the semester project of Programming and Problem Solving course of my undergrad curriculum.
+ Symphony is a Music Player coded in Python for the semester project of Programming and Problem Solving course of our undergrad curriculum.
 This was a group project.
 
 The libraries and modules used for making this project are:
