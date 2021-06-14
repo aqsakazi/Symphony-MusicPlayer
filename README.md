@@ -1,2 +1,2 @@
-# MusicPlayer_Python
+# Symphony, Keep Grooving
 A Music Player in Python made for Programming and Problem Solving project in sem 2.
